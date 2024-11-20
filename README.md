@@ -26,3 +26,4 @@
 
 20241120 update:
 this is demo 1. demo 2 with bit space addressing will be uploaded soon
+ps. not tested.
